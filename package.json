@@ -4,7 +4,7 @@
   "description": "A starter repo for the ACA Advanced Course CRUD application.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "dev": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
@@ -14,7 +14,8 @@
     "ejs": "^2.5.1",
     "express": "^4.14.0",
     "method-override": "^2.3.6",
-    "mongoose": "^4.5.8"
+    "mongoose": "^4.6.5",
+    "nodemon": "^1.11.0"
   },
   "devDependencies": {
     "nodemon": "^1.10.0"
